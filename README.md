@@ -18,7 +18,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/indicadores-escuro.svg">
-    <img src="assets/indicadores-claro.svg" alt="Em números: 16 projetos privados, 156 commits nos últimos 12 meses, 8 linguagens" width="760">
+    <img src="assets/indicadores-claro.svg" alt="Em números: 16 projetos privados, 156 commits nos últimos 12 meses, 8 linguagens" width="400">
   </picture>
 </p>
 
