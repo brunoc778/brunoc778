@@ -11,6 +11,8 @@
 
 <p align="center"><img src="assets/marca.svg" alt="CORUN, desde 2013" height="24"></p>
 
+<p align="center"><img src="assets/satoshi-martelando.svg" alt="Satoshi, o robô da oficina da CORUN, martelando a bigorna" width="220"><br><sub>Satoshi, o robô da oficina</sub></p>
+
 - **A CORUN:** a oficina das máquinas, as tintas Pure Black, os cartuchos Diamond Series e o Tattoo.doc, uma série com tatuadores.
 - **Como eu construo:** a loja, o site, o assistente Satoshi e as automações da CORUN rodam em projetos próprios, feitos com IA (Claude e Codex) e decididos por mim.
 - **Aqui:** os projetos são privados. Abaixo, os números deles e as referências que eu sigo.
